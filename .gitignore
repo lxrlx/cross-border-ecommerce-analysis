@@ -1,0 +1,16 @@
+# ===== 数据文件：从 Kaggle 下载，体积大(62MB)且有数据许可，不入库 =====
+# 使用方式：自行运行 `python analysis.py` 或用 kagglehub 下载后放本目录
+olist_data/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ===== 操作系统/编辑器 =====
+.DS_Store
+Thumbs.db
+*.swp
+
+# 简历话术为私人求职材料，不入库（本地保留）
+简历话术.md
